@@ -1,4 +1,4 @@
-### OpenAI image generator
+## OpenAI image generator
 
 Generates image with OpenAI.
 
