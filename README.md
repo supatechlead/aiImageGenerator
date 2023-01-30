@@ -1,6 +1,6 @@
 ## OpenAI image generator
 
-Generates image with OpenAI.
+Generates image with OpenAI. Freely inspired from Traversy Media tutorial, link at https://www.youtube.com/watch?v=fU4o_BKaUZE
 
 Need a .env file at root directory that contains:
 - PORT=5000
